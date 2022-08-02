@@ -2,9 +2,9 @@
 
 > A koa2 front-end and back-end separate interface development middleware based on the decorator.       
 
-> !!!Note: must be written in typescript to support decorators.      
+> !!!Note: must be written in **typescript** to support decorators.      
 
-> Built-in router and bodyparser related functions, no need to install middleware such as `koa- router` and `koa-body`.      
+> Built-in router and bodyparser related functions, no need to install middleware such as `koa-router` and `koa-body`.      
 
 > Related dependencies: [koa-router](https://www.npmjs.com/package/koa-router), [koa-body-2](https://www.npmjs.com/package/koa-body-2), you can go to view the relevant documentation.        
 

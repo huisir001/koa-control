@@ -1,6 +1,6 @@
 {
   "name": "koa-control",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A koa2 front-end and back-end separate interface development middleware based on the decorator.",
   "main": "index.js",
   "type": "module",
@@ -27,6 +27,7 @@
     "koa-router",
     "body",
     "parser",
+    "typescript",
     "decorator"
   ],
   "dependencies": {
