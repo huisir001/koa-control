@@ -1,0 +1,10 @@
+export declare const PROP_GROUP_METADATA_KEY: unique symbol;
+export declare const PROP_REQUIRE_METADATA_KEY: unique symbol;
+export declare const PROP_TYPE_METADATA_KEY: unique symbol;
+export declare const PARAMETR_METADATA_KEY: unique symbol;
+export declare const METHOD_DEC_METADATA_KEY: unique symbol;
+export declare const METHOD_DATA_CACH_METADATA_KEY: unique symbol;
+export declare const METHOD_PATH_METADATA_KEY: unique symbol;
+export declare const PROP_DEC_METADATA_KEY: unique symbol;
+export declare const CLASS_SIGN_METADATA_KEY: unique symbol;
+export declare const CLASS_PREFIX_METADATA_KEY: unique symbol;
